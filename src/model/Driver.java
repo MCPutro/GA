@@ -88,7 +88,7 @@ public class Driver {
             //bataTXT("C:\\Users\\Mu'ti C Putro\\Documents\\percobaan.txt");
             GA baru = new GA();
             baru.display();
-        
+            System.out.println("hahah");
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, "error");
         }
